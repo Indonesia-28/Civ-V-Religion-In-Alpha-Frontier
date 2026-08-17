@@ -22,12 +22,10 @@
     },
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
     /* Too I have it
-   //
-    {
-        "name": "Just War",
-        "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+    //{
+        //"name": "Just War",
+        //"type": "Enhancer",
+        //"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
         // ToDo: Should only be enemy territory of cities that follow this religion
-    }
-  //
+    //}
 ]
