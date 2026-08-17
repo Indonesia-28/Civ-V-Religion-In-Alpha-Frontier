@@ -21,6 +21,7 @@
         "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]"]
     },
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
+    /* Too I have it
     {
         "name": "Just War",
         "type": "Enhancer",
