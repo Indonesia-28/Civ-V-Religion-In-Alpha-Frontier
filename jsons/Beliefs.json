@@ -22,11 +22,15 @@
     },
 ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
     /* Too I have it
-    //{
+  //{
         //"name": "Just War",
         //"type": "Enhancer",
         //"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
         // ToDo: Should only be enemy territory of cities that follow this religion
-    //}
-  
+  //},
+  {
+        "name": "Religious Texts",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+  }
 ]
